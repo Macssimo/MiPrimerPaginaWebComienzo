@@ -240,3 +240,11 @@ h2.title {
     font-weight: 300px;
     line-height: 20px;
 }
+.intensive {
+    height: 629px;
+    background-color: #efefef;
+}
+.intensive_logo .l_monio {
+    display: block;
+    margin: 0 auto;
+}
