@@ -243,8 +243,100 @@ h2.title {
 .intensive {
     height: 629px;
     background-color: #efefef;
+    padding: 87px 0 87px 0;
 }
 .intensive_logo .l_monio {
     display: block;
     margin: 0 auto;
 }
+.intensive_logo2 .l_box {
+    display: block;
+    margin: 0 auto;
+}
+.intensive .intensive_texto {
+    font-family: "Roboto";
+    font-size: 30px;
+    line-height: 43px;
+    font-weight: 400;
+    color: #252525;
+    text-align: center;
+    margin-top: 42px;
+}
+.intensive .promo_intsbtn {
+    display: block;
+    margin: 73px auto;
+    width: 313px;
+    height: 72px;
+    box-shadow: inset 0 0 0 rgba(0, 0, 0, 0.18);
+    border: 4px solid rgba(0, 0, 0, 0.23);
+    background-image: linear-gradient(to top, #2898b9 0%, #3ab6da 100%);
+    color: #ffffff;
+    font-family: "Roboto - Condenset";
+    font-size: 18px;
+    text-transform: uppercase;
+    cursor: pointer;  
+}
+.webinar { 
+    min-height: 681px;
+    padding: 89px 0 0 0;
+}
+.webinar_icons .wbn_1 {
+    display: block;
+    margin: 0 auto;
+}
+.webinar_text1 {
+    margin-top: 37px;
+    color: #252525;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center;
+}
+.webinar_mosku {
+    margin-top: 30px;
+    color: #299cbd;
+    font-family: "Roboto - Black";
+    font-size: 36px;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center
+}
+.webinar_text2 {
+    margin-top: 25px;
+    color: #4a4a4a;
+    font-size: 23px;
+    font-weight: 400;
+    text-align: center;
+}
+footer {
+    min-height: 166px;
+    background-color: #1a1a1a;
+    padding: 61px 0 69px 0;
+}
+
+.info {
+    margin: 0 auto;
+    width: 377px;
+    text-align: center;
+    color: #888888;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 21px;
+}
+
+footer a {
+    color: #888888;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 21px;
+    text-decoration: none;
+}
+
+.underlined {
+    text-decoration: underline;
+} 
+
+   
